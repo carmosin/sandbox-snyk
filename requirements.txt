@@ -1,3 +1,12 @@
 drf-yasg==1.17.1
 djangorestframework==3.5.3
 parameterized==0.7.4
+pylint==2.6.0
+rstr==2.2.6
+setuptools==46.2.0
+setuptools==50.0.0
+urllib3==1.25.9
+wheel==0.34.2
+djangorestframework==3.11.0
+mysqlclient==2.0.1
+django==3.0.6

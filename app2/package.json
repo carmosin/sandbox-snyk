@@ -1,5 +1,5 @@
 {
     "dependencies": {
-        "phpcheckstyle": "^0.14.8",
+        "phpcheckstyle": "^0.14.8"
     }
 }

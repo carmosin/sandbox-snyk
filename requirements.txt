@@ -1,5 +1,4 @@
 django==3.0.6
-drf-spectacular
 drf-yasg==1.17.1
 djangorestframework==3.5.3
 parameterized==0.7.4

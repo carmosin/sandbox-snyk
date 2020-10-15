@@ -1,0 +1,12 @@
+Django
+drf-spectacular
+drf-yasg
+parameterized
+PyHamcrest
+pylint
+PyMySQL
+rstr
+setuptools
+urllib3
+wheel
+djangorestframework

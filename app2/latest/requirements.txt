@@ -3,7 +3,7 @@ drf-yasg==1.17.0
 filprofiler==0.10.0
 line_profiler==3.0.2
 logilab-common==1.5.2
-radon==4.1.0
+radon==4.5.2
 wxPython==4.0.7
 markdown==3.2.1
 pylint==2.2.2

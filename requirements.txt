@@ -1,7 +1,7 @@
-Django==3.0.6
+Django==3.0.13
 drf-spectacular==0.9.13 
 drf-yasg==1.17.1
-djangorestframework==3.5.3
+djangorestframework==3.11.2
 parameterized==0.7.4
 PyHamcrest==2.0.2
 pylint==2.6.0

@@ -7,3 +7,4 @@ radon==4.1.0
 wxPython==4.0.7
 markdown==3.2.1
 pylint==2.2.2
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability

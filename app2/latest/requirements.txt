@@ -1,5 +1,5 @@
 django-addons==2.0.1
-drf-yasg==1.17.0
+drf-yasg==1.21.7
 filprofiler==0.10.0
 line_profiler==3.0.2
 logilab-common==1.5.2

@@ -14,7 +14,7 @@
  "test": "snyk test"
  },
  "engines": {
- "node": "6.14.1"
+ "node": "6.17.1"
  },
  "dependencies": {
  "django": "3.0.6",

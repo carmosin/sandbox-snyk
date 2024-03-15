@@ -5,5 +5,5 @@ line_profiler==3.0.2
 logilab-common==1.5.2
 radon==4.1.0
 wxPython==4.0.7
-markdown==3.2.1
+markdown==3.6
 pylint==2.2.2

@@ -1,4 +1,4 @@
-Django==3.0.6
+Django==3.2.15
 drf-spectacular==0.9.13 
 drf-yasg==1.17.1
 djangorestframework==3.5.3
@@ -7,7 +7,7 @@ PyHamcrest==2.0.2
 pylint==2.6.0
 PyMySQL==0.10.0
 rstr==2.2.6
-setuptools==50.0.0
+setuptools==65.5.1
 urllib3==1.25.9
 wheel==0.34.2
 pylint-django==2.0.15

@@ -1,4 +1,4 @@
-Django==3.0.6
+Django==4.2.27
 drf-spectacular==0.9.13 
 drf-yasg==1.17.1
 djangorestframework==3.5.3
@@ -8,7 +8,7 @@ pylint==2.6.0
 PyMySQL==0.10.0
 rstr==2.2.6
 setuptools==50.0.0
-urllib3==1.25.9
+urllib3==2.6.0
 wheel==0.34.2
 pylint-django==2.0.15
 django-auth-ldap==2.2.0
@@ -27,3 +27,4 @@ flask==1.1.1
 flask-simpleldap==1.4.0
 jsonschema==3.2.0
 lxml==4.5.1
+sqlparse>=0.5.4 # not directly required, pinned by Snyk to avoid a vulnerability
